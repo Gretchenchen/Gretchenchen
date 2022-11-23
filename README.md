@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I am Gretchen  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"></h1>
 
-I am pursuing a Computer Programming diploma at Algonquin College to obtain a junior developer position after graduation. Passionate about bridging the gap between development and design with a focus on front-end and user experience. Coding is fun, and I'll keep trying!
+I am pursuing a Computer Programming diploma at Algonquin College to obtain a junior developer position after graduation. Passionate about bridging the gap between development and design with a focus on front-end and user interface. Coding is fun, and I'll keep trying!
 
 
 
