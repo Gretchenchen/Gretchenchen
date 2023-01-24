@@ -4,7 +4,7 @@ I am pursuing a Computer Programming diploma at Algonquin College to obtain a ju
 
 
 
-- 🔭 Looking for a eight-month coop position
+- 🔭 Looking for a new position
 
 - 📫 Keep in touch: chen0884@algonquinlive.com
 
