@@ -4,11 +4,6 @@ I am pursuing a Computer Programming diploma at Algonquin College to obtain a ju
 
 
 
-- 🔭 Looking for a new position
-
-- 📫 Keep in touch: chen0884@algonquinlive.com
-
-
 
 <strong>Skills</strong>
 
